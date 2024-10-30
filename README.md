@@ -10,7 +10,7 @@
 - 🎯 Seeking opportunities in Frontend Development (1 week school/3 weeks work rhythm)
 
 ## 👨‍💻 Experience
-- 🏢 SharePoint Administrator and Developer at Nuclétudes (Current)
+- 🏢 SharePoint Administrator and Developer at Nuclétudes
 - 📱 Mobile Developer at Aware Systems
 - 🌱 Web Developer at Zoom Production (Aquaponics monitoring app)
 
