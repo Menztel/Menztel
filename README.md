@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend developer
 ------------------
 
-🎓 Master's student in Web Engineering at ESGI Paris, specializing in Frontend Development. 🔭 Currently pursuing my Master's degree in Web Engineering 🌱 Passionate about creating intuitive and efficient web interfaces 🎯 Seeking opportunities in Frontend Development (1 week school/3 weeks work rhythm)
+🎓 Master's student in Web Engineering at ESGI Paris, specializing in Frontend Development. 
+🔭 Currently pursuing my Master's degree in Web Engineering 
+🌱 Passionate about creating intuitive and efficient web interfaces 
+🎯 Seeking opportunities in Frontend Development (1 week school/3 weeks work rhythm)
 
 * 🌍  I'm based in Paris
 * ✉️  You can contact me at [maheanuu.allain@gmail.com](mailto:maheanuu.allain@gmail.com)
